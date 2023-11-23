@@ -1,0 +1,14 @@
+C:\Users\tongo\Desktop\SortQuick_Selection\bin\Debug\net7.0\SortQuick_Selection.exe
+C:\Users\tongo\Desktop\SortQuick_Selection\bin\Debug\net7.0\SortQuick_Selection.deps.json
+C:\Users\tongo\Desktop\SortQuick_Selection\bin\Debug\net7.0\SortQuick_Selection.runtimeconfig.json
+C:\Users\tongo\Desktop\SortQuick_Selection\bin\Debug\net7.0\SortQuick_Selection.dll
+C:\Users\tongo\Desktop\SortQuick_Selection\bin\Debug\net7.0\SortQuick_Selection.pdb
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.AssemblyInfoInputs.cache
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.AssemblyInfo.cs
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.csproj.CoreCompileInputs.cache
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.dll
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\refint\SortQuick_Selection.dll
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.pdb
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\SortQuick_Selection.genruntimeconfig.cache
+C:\Users\tongo\Desktop\SortQuick_Selection\obj\Debug\net7.0\ref\SortQuick_Selection.dll
